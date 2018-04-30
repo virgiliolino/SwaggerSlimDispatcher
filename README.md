@@ -1,4 +1,7 @@
-# SlimSwaggerDispatcher
+# SlimSwaggerDispatcher - DISCONTINUED 
+
+# Development continue on [https://github.com/virgiliolino/open-api](https://github.com/virgiliolino/open-api)
+
 
 Maybe it's about automation, or just about beign more declarative because a DSL non Touring complete language will just more correct, anyway I find it just amazing the possibility to describe an API by using the [Open-API-Specification](https://github.com/OAI/OpenAPI-Specification/blob/master/README.md) and let this specification be your code: this class will set every route using the Slim functionalities, and for every route point to a CommandHandler.
 
